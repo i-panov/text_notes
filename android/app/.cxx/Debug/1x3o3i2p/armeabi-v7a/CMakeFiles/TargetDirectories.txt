@@ -1,0 +1,2 @@
+/home/ilya/Documents/Projects/text_notes/android/app/.cxx/Debug/1x3o3i2p/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/ilya/Documents/Projects/text_notes/android/app/.cxx/Debug/1x3o3i2p/armeabi-v7a/CMakeFiles/rebuild_cache.dir

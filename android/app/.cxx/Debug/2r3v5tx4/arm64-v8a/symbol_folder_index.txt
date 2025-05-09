@@ -1,0 +1,1 @@
+/home/ilya/Documents/Projects/text_notes/build/app/intermediates/cxx/Debug/2r3v5tx4/obj/arm64-v8a
